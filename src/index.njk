@@ -5,11 +5,28 @@ eleventyNavigation:
 ---
 
 {% set title = 'Home' %}
-{% extends "default.njk" %}
+{% extends "home.njk" %}
 
 {% block body %}
-  <div class="py-16 prose">
-    <h1>Welcome to the Eleventy starter template</h1>
-    <p>This page is authored at <code>src/index.njk</code></p>
-  </div>
+  <!-- Hero section -->
+  {% include 'home/hero.njk' %}
+  
+  <!-- Services section -->
+  {% include 'home/services.njk' %}
+
+  <!-- Services section with Grid -->
+  {% include 'home/services-grid.njk' %}
+
+  <!-- Logo section with Grid -->
+  {% include 'home/logo-grid.njk' %}
+
+  <!-- Logo section -->
+  {% include 'home/logo.njk' %}
+
+  <!-- Stats section in card -->
+  {% include 'home/stats-card.njk' %}
+
+  <!-- Stats section on brand -->
+  {% include 'home/stats-brand.njk' %}
+
 {% endblock %}

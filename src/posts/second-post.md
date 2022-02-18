@@ -1,6 +1,8 @@
 ---
 tags: thoughts
 title: My second greatest post
+description: Optio cum necessitatibus dolor voluptatum provident commodi et. Qui aperiam fugiat nemo cumque.
+category: vacancies
 image: /assets/img/eagle.jpg
 date: 2022-01-27T13:00:56.771Z
 ---

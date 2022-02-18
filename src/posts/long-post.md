@@ -2,6 +2,8 @@
 title: Long post
 image: /assets/img/eagle.jpg
 tags: general
+category: award
+description: Optio cum necessitatibus dolor voluptatum provident commodi et. Qui aperiam fugiat nemo cumque.
 date: 2022-01-27T12:34:46.711Z
 ---
 
