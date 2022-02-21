@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 tags: blog
 title: Witcher wallpaper
 description: Optio cum necessitatibus dolor voluptatum provident commodi et. Qui aperiam fugiat nemo cumque.
