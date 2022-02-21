@@ -13,7 +13,7 @@
     <!-- Desktop nav -->
     <div class="items-center hidden gap-8 md:flex">
       {%- for entry in collections.all | eleventyNavigation %}
-        <a class="{{ 'text-sky-800' if entry.url == page.url }} hover:text-sky-800 text-sky-600" href="{{ entry.url | url }}">{{ entry.title }}</a>
+        <a class="{{ 'underline underline-offset-4 decoration-1 decoration-sky-600' if entry.url == page.url }} hover:text-sky-800 text-sky-600" href="{{ entry.url | url }}">{{ entry.title }}</a>
       {% endfor %}
     </div>
     <!--Toggle button (hidden on medium screens)-->

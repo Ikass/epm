@@ -2,5 +2,5 @@
   "tags": [
     "news"
   ],
-  "layout": "news"
+  "layout": "markdown"
 }

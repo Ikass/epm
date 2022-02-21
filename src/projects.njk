@@ -21,11 +21,11 @@ eleventyNavigation:
     <div class="grid max-w-lg gap-5 mx-auto mt-12 lg:grid-cols-3 lg:max-w-none">
 
     {% for project in collections.projects %}
-      <div class="flex flex-col overflow-hidden rounded-lg shadow-lg">
+      <div class="flex flex-col overflow-hidden shadow-lg">
         <div class="flex-shrink-0">
           <img class="object-cover w-full h-48"
             src="{{ project.data.image }}"
-            alt="">
+            alt="{{ project.data.image_alt }}">
         </div>
         <div class="flex flex-col justify-between flex-1 p-6 bg-white">
           <div class="flex-1">
