@@ -6,23 +6,23 @@ tags: [employment, turkey, sme]
 image: https://source.unsplash.com/1600x900/?turkey
 image_alt: Random Turkey image from Unsplash
 ---
-### Project Title:
+#### Project Title:
 
 **Technical Assistance for Labour Market Support Programme for NEETs (NEET PRO)**
 
-### Location:
+#### Location:
 
 Turkey
 
-### Project Reference:
+#### Project Reference:
 
 EuropeAid/140651/IH/SER/TR
 
-### Value of the Contract:
+#### Value of the Contract:
 
 2 589 951 EUR
 
-### Contract Description:
+#### Contract Description:
 
 The objective of this contract is to increase policy making and implementation capacity of İŞKUR to provide better active labour market policies for youth not in education, employment or training (NEETs) through trainings, developing individual action plan (IAP), jobseekers allowance (JSA) implementation and monitoring model, outreach strategy, field and academic researches about NEETs and study visits. 
 
