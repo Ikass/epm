@@ -2,6 +2,11 @@
 
 A starter repository for building a website with the [Eleventy](https://www.11ty.dev), [Tailwind CSS](https://tailwindcss.com), and [Alpine.js](https://alpinejs.dev).
 
+Netlify badge:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf8dca48-deea-4207-97f0-ae1db1bbd2b8/deploy-status)](https://app.netlify.com/sites/velvet-frodo/deploys)
+
+Live version [here](https://velvet-frodo.netlify.app/)
+
 ## To-Do:
 
 - [x] add eleventy image plugin
