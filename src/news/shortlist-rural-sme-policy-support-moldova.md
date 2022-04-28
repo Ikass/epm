@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "moldova"
   - "sme"
+image: /assets/img/moldova.jpg
+image_alt: Moldova flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.

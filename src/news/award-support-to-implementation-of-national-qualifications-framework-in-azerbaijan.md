@@ -6,6 +6,8 @@ tags:
   - "azerbaijan"
   - "education"
   - "nqf"
+image: /assets/img/azerbaijan.jpg
+image_alt: Azerbaijan flag
 ---
 
 European Projects Management Ltd. has been awarded the **EuropeAid project contract in Azerbaijan**, in consortium with GOPA Consultants.

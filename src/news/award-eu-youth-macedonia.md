@@ -5,6 +5,8 @@ category: ongoing
 tags: 
   - "macedonia"
   - "youth-employment"
+image: /assets/img/macedonia.jpg
+image_alt: Macedonia flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Macedonia, in consortium with WEglobal.

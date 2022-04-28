@@ -8,6 +8,8 @@ tags:
   - "justice"
   - "penitentiary"
   - "probation"
+image: /assets/img/georgia.jpg
+image_alt: Georgia flag
 ---
 
 ### Support to the Development of the Penitentiary and Probation Systems

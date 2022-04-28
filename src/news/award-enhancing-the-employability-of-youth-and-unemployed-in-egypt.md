@@ -9,6 +9,8 @@ tags:
   - "vet"
   - "vocational-education-and-training"
   - "youth-employment"
+image: /assets/img/egypt.jpg
+image_alt: Egypt flag
 ---
 
 European Projects Management Ltd. has been awarded the **EuropeAid project contract in Egypt**, in consortium with the European Profiles S.A.:

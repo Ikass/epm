@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "azerbaijan"
   - "education"
+image: /assets/img/azerbaijan.jpg
+image_alt: Azerbaijan flag
 ---
 
 Location: Azerbaijan

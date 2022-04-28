@@ -5,6 +5,8 @@ category: vacancies
 tags: 
   - "bangladesh"
   - "team-leader"
+image: /assets/img/experts.jpg
+image_alt: Experts managing project
 ---
 
 #### Project Title:

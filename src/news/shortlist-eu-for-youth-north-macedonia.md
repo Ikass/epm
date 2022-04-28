@@ -4,6 +4,8 @@ date: 2020-07-04
 category: shortlist
 tags: 
   - "north-macedonia"
+image: /assets/img/macedonia.jpg
+image_alt: Macedonia flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.

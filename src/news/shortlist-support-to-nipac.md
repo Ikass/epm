@@ -2,6 +2,8 @@
 title: "SHORTLIST - Support to NIPAC"
 date: 2019-07-31
 category: shortlist
+image: /assets/img/bih-sarajevo.jpg
+image_alt: Bosnia and Herzegovina Sarajevo
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with Kronauer Consulting.

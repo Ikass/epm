@@ -6,6 +6,8 @@ tags:
   - "curriculum-development"
   - "cyprus"
   - "vet"
+image: /assets/img/cyprus.jpg
+image_alt: Cyprus flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with NORM.

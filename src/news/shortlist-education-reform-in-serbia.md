@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "education-reform"
   - "serbia"
+image: /assets/img/serbia-belgrade.jpg
+image_alt: View of Serbia Belgrade
 ---
 
 **Title**: Capacity building of relevant institutions under the Sector reform contract for Education Reform in Serbia  strengthening links with employment and social inclusion

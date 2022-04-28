@@ -6,6 +6,8 @@ tags:
   - "ict"
   - "information-technology"
   - "kosovo"
+image: /assets/img/kosovo.jpg
+image_alt: Kosovo flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.

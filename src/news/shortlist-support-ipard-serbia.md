@@ -5,7 +5,8 @@ category: shortlist
 tags: 
   - "ipard"
   - "serbia"
-image: /assets/img/serbia.jpg
+image: /assets/img/serbia-belgrade.jpg
+image_alt: View of Serbia Belgrade
 ---
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.
 

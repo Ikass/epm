@@ -6,6 +6,8 @@ tags:
   - "belarus"
   - "employment"
   - "vet"
+image: /assets/img/belarus.jpg
+image_alt: Belarus flag
 ---
 
 ### Employment and Vocational Education and Training in Belarus

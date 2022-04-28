@@ -5,6 +5,8 @@ category: vacancies
 tags: 
   - "kyrgyzstan"
   - "social-protection"
+image: /assets/img/kyrgyzstan.jpg
+image_alt: Kyrgyzstan flag
 ---
 
 ### Sector Reform Contract: Social Protection Kyrgyzstan (SRC: SP)

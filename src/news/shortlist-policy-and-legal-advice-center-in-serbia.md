@@ -6,6 +6,8 @@ tags:
   - "plac"
   - "policy-and-legal-advice-center"
   - "serbia"
+image: /assets/img/serbia-belgrade.jpg
+image_alt: View of Serbia Belgrade
 ---
 
 **Title**: Policy and Legal Advice Center

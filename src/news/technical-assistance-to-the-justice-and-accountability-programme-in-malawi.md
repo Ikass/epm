@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "justice"
   - "malawi"
+image: /assets/img/malawi.jpg
+image_alt: Malawi flag
 ---
 
 Title: **Provision of Technical Assistance to the Government of Malawi on Implementation of the Chilungamo (Justice and Accountability) Programme Lilongwe, Malawi**

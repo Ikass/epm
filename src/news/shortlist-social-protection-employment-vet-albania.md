@@ -7,6 +7,8 @@ tags:
   - "employment-policy"
   - "social-protection"
   - "vet"
+image: /assets/img/albania.jpg
+image_alt: Albania flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with Hulla & Co. Human Dynamics GmbH & Co KG.

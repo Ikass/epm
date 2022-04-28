@@ -6,6 +6,8 @@ tags:
   - "azerbaijan"
   - "education"
 permalink: false
+image: /assets/img/experts.jpg
+image_alt: Experts managing project
 ---
 
 Project title: Strengthening Teaching and Research Capacity at ADA University

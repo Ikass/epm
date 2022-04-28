@@ -7,6 +7,8 @@ tags:
   - "education-quality"
   - "secondary-education"
   - "serbia"
+image: /assets/img/serbia-belgrade.jpg
+image_alt: Serbia flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkey, in consortium with Hulla and co. Human Dynamics KG.

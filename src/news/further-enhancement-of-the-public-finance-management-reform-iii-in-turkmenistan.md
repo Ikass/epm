@@ -6,6 +6,8 @@ tags:
   - "finance"
   - "pfm"
   - "turkmenistan"
+image: /assets/img/turkmenistan.jpg
+image_alt: Turkmenistan flag
 ---
 
 European Project Management Ltd. has started implementing the EuropeAid project contract "Further Enhancement of the Public Finance Management Reform III" in Turkmenistan together with European Profiles (Greece), Sofreco (France), Mazars LLP (UK) and The Treasury of the Republic of Latvia

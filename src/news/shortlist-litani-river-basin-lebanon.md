@@ -5,6 +5,7 @@ category: shortlist
 tags: 
   - "lebanon"
 image: /assets/img/lebanon.jpg
+image_alt: Lebanon flag
 ---
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.
 

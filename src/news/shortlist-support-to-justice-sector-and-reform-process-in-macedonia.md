@@ -4,6 +4,8 @@ date: 2018-07-03
 category: shortlist
 tags: 
   - "justice-reform"
+image: /assets/img/macedonia.jpg
+image_alt: Macedonia flag
 ---
 
 **Title**: Support to Justice Sector and Reform Process

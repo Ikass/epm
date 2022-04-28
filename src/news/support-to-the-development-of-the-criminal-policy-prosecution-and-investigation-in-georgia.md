@@ -7,6 +7,8 @@ tags:
   - "georgia"
   - "justice"
   - "prosecution"
+image: /assets/img/georgia.jpg
+image_alt: Georgia flag
 ---
 
 ### Support to the Development of the Criminal Policy, Prosecution and Investigation

@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "association-agreement"
   - "georgia"
+image: /assets/img/georgia.jpg
+image_alt: Georgia flag
 ---
 
 **Title**: Facility for the implementation of the EU-Georgia Association Agreement - II

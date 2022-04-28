@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "georgia"
   - "regional-development"
+image: /assets/img/georgia.jpg
+image_alt: Georgia flag
 ---
 
 ### Support to Regional Development Policy Implementation II

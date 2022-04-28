@@ -6,6 +6,8 @@ tags:
   - "education-system-reform"
   - "employment-services"
   - "south-africa"
+image: /assets/img/south-africa.jpg
+image_alt: South Africa flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in South Africa, in consortium with Hulla & Co. Human Dynamics GmbH & Co KG.

@@ -9,6 +9,8 @@ tags:
   - "rural-development"
   - "serbia"
   - "veterinary-policy"
+image: /assets/img/serbia-belgrade.jpg
+image_alt: Serbia flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Serbia, in consortium with WEglobal.

@@ -6,7 +6,8 @@ tags:
   - "agriculture"
   - "azerbaijan"
   - "rural-development"
-image: /assets/img/lloyd-alozie-wX_9ZhIErpg-unsplash-e1618918571527-1024x422.jpg
+image: /assets/img/azerbaijan.jpg
+image_alt: Azerbaijan flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Azerbaijan, in consortium with WEglobal.

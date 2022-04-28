@@ -7,6 +7,8 @@ tags:
   - "cyber-security"
   - "cybersecurity"
   - "eu4digital"
+image: /assets/img/eu.jpg
+image_alt: European Union flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.

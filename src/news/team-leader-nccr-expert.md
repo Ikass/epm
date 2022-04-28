@@ -5,6 +5,8 @@ category: vacancies
 tags: 
   - "criminal-justice"
   - "kosovo"
+image: /assets/img/experts.jpg
+image_alt: Experts managing project
 ---
 
 Project Title: [National Centralised Criminal Record System (NCCR) Kosovo](http://epm.lv/shortlist-national-centralised-criminal-record-system-in-kosovo/)

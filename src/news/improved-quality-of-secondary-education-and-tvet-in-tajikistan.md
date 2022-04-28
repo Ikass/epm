@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "education"
   - "tajikistan"
+image: /assets/img/tajikistan.jpg
+image_alt: Tajikistan flag
 ---
 
 ### Provision of Technical Assistance to the Government of Tajikistan in support to improved quality of education in the areas of secondary education and Initial Technical and Vocational Education and Training (TVET) - Lot1 and Lot2

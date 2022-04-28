@@ -6,6 +6,8 @@ tags:
   - "education"
   - "education-reform"
   - "morocco"
+image: /assets/img/morocco.jpg
+image_alt: Morocco flag
 ---
 
 **Title**: Technical assistance to support education sector reform in Morocco

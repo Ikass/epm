@@ -6,6 +6,8 @@ tags:
   - "georgia"
   - "judiciary"
   - "justice"
+image: /assets/img/georgia.jpg
+image_alt: Georgia flag
 ---
 
 ### Support to the Independence, Accountability and Efficiency of the Judiciary

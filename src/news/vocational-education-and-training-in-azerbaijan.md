@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "azerbaijan"
   - "vet"
+image: /assets/img/azerbaijan.jpg
+image_alt: Azerbaijan flag
 ---
 
 ### EU Support to Vocational Education and Training (VET) in Azerbaijan

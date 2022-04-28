@@ -7,6 +7,8 @@ tags:
   - "georgia"
   - "labour-market"
   - "skills-development"
+image: /assets/img/georgia.jpg
+image_alt: Georgia flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Georgia, in consortium with GOPA.

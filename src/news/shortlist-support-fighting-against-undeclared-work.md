@@ -6,6 +6,8 @@ tags:
   - "kosovo"
   - "labour-inspectorate"
   - "undeclared-work"
+image: /assets/img/kosovo.jpg
+image_alt: Kosovo flag
 ---
 
 **Title**: Support to Ministry of Labour Inspectorate for Fighting Against Undeclared Work

@@ -8,6 +8,8 @@ tags:
   - "tvet"
   - "vet"
   - "vocational-education-and-training"
+image: /assets/img/jordan.jpg
+image_alt: Aerial view of Jordan city and flag
 ---
 
 **Title**: Technical Assistance to the Skills for Employment and Social Inclusion Programme

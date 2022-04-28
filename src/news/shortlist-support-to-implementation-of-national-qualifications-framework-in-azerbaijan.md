@@ -7,6 +7,8 @@ tags:
   - "education"
   - "national-qualification-framework"
   - "nqf"
+image: /assets/img/azerbaijan.jpg
+image_alt: Azerbaijan flag
 ---
 
 **Title**: Support to Implementation of National Qualifications Framework in Azerbaijan

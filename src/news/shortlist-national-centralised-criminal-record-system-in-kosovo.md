@@ -6,6 +6,8 @@ tags:
   - "criminal-justice"
   - "criminal-policy"
   - "kosovo"
+image: /assets/img/kosovo.jpg
+image_alt: Kosovo flag
 ---
 
 **Title**: National Centralised Criminal Record System (NCCR) Kosovo

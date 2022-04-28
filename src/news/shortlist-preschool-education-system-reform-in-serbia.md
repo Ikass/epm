@@ -7,6 +7,8 @@ tags:
   - "education-system-reform"
   - "pre-school"
   - "serbia"
+image: /assets/img/serbia-belgrade.jpg
+image_alt: View of Serbia Belgrade
 ---
 
 **Title**:Support to Preschool Education System Reform

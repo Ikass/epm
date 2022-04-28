@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "education"
   - "turkmenistan"
+image: /assets/img/turkmenistan.jpg
+image_alt: Turkmenistan flag
 ---
 
 ### Support to the Education Sector in Turkmenistan (Relaunch)

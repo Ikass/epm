@@ -5,6 +5,8 @@ category: ongoing
 tags: 
   - "belarus"
   - "tourism"
+image: /assets/img/belarus.jpg
+image_alt: Belarus flag
 ---
 
 European Project Management Ltd. has won the EuropeAid project contract in Republic of Belarus together with European Profiles S.A.(Greece) in a consortium with Archidata srl (Italia) and Vokrug Sveta Ltd. (Belarus)

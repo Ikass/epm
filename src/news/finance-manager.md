@@ -5,6 +5,8 @@ category: vacancies
 tags: 
   - "justice"
   - "malawi"
+image: /assets/img/experts.jpg
+image_alt: Experts managing project
 ---
 
 Project Title: Provision of Technical Assistance to the Government of Malawi on Implementation of the Chilungamo (Justice and Accountability) Programme Lilongwe, Malawi

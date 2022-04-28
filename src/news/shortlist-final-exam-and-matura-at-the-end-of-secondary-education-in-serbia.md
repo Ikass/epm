@@ -6,6 +6,8 @@ tags:
   - "education"
   - "examination"
   - "secondary-education"
+image: /assets/img/serbia-belgrade.jpg
+image_alt: View of Serbia Belgrade
 ---
 
 **Title**: Design and Implementation of Final Exam and Matura at the end of Secondary Education

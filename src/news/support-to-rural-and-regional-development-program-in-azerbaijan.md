@@ -6,6 +6,8 @@ tags:
   - "agriculture"
   - "azerbaijan"
   - "rural-and-regional-development"
+image: /assets/img/azerbaijan.jpg
+image_alt: Azerbaijan flag
 ---
 
 #### Technical Assistance Project for the Implementation of the Support to Rural and Regional Development (SRRD) Program in the Republic of Azerbaijan

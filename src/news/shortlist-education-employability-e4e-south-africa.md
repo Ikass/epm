@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "education"
   - "south-africa"
+image: /assets/img/south-africa.jpg
+image_alt: South Africa flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with Human Dynamics.

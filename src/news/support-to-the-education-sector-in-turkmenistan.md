@@ -5,6 +5,8 @@ category: ongoing
 tags: 
   - "education"
   - "turkmenistan"
+image: /assets/img/turkmenistan.jpg
+image_alt: Turkmenistan flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkmenistan, in consortium with the European Profiles S.A.

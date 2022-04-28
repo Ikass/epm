@@ -8,6 +8,8 @@ tags:
   - "labour-market-information-system"
   - "lmis"
   - "profiling-model"
+image: /assets/img/kazakhstan.jpg
+image_alt: Kazakhstan flag
 ---
 
 **Title**: Consultancy on Development and Implementation of a Profiling Model for Employment Centers of the Republic of Kazakhstan

@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "agriculture"
   - "ukraine"
+image: /assets/img/ukraine.jpg
+image_alt: Ukraine flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.

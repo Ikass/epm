@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "morocco"
   - "national-literacy-strategy"
+image: /assets/img/morocco.jpg
+image_alt: Morocco flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with Particip.

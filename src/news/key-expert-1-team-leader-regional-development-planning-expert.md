@@ -6,7 +6,8 @@ draft: true
 tags: 
   - "azerbaijan"
   - "team-leader"
-image: /assets/img/helloquence-5fNmWej4tAA-unsplash-e1584007690957.jpg
+image: /assets/img/experts.jpg
+image_alt: Experts managing project
 ---
 #### Project Title:
 

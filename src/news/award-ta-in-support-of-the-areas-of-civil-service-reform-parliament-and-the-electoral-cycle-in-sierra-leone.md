@@ -6,6 +6,8 @@ tags:
   - "governance"
   - "parliament"
   - "sierra-leone"
+image: /assets/img/sierra-leone.jpg
+image_alt: Sierra Leone
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Sierra Leone, in consortium with Hulla & Co Human Dynamics.

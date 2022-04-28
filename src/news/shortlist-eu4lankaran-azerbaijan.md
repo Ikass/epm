@@ -6,6 +6,7 @@ tags:
   - "azerbaijan"
   - "regional-development"
 image: /assets/img/azerbaijan.jpg
+image_alt: Azerbaijan flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.

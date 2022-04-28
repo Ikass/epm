@@ -5,6 +5,8 @@ category: ongoing
 tags: 
   - "ict"
   - "kosovo"
+image: /assets/img/kosovo.jpg
+image_alt: Kosovo flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Kosovo, in consortium with WEglobal.

@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "parliament"
   - "sierra-leone"
+image: /assets/img/sierra-leone.jpg
+image_alt: Sierra Leone
 ---
 
 **Title**: Technical Assistance in Support of the Governance Sector in Sierra Leone in the Areas of Civil Service Reform, Parliament and the Electoral Cycle

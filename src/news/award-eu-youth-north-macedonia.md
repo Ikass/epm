@@ -6,6 +6,8 @@ tags:
   - "north-macedonia"
   - "youth-employment"
   - "youth-guarantee"
+image: /assets/img/macedonia.jpg
+image_alt: Macedonia flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in North Macedonia, in consortium with WEglobal.

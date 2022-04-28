@@ -5,6 +5,8 @@ category: ongoing
 tags: 
   - "association-agreement"
   - "moldova"
+image: /assets/img/moldova.jpg
+image_alt: Moldova flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Moldova, in consortium with Hulla & Co Human Dynamics.

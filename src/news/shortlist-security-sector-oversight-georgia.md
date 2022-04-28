@@ -7,6 +7,7 @@ tags:
   - "public-oversight"
   - "security-sector"
 image: /assets/img/georgia.jpg
+image_alt: Georgia flag
 ---
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with International Consulting Expertise.
 

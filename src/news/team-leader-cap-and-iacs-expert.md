@@ -7,6 +7,8 @@ tags:
   - "cap"
   - "iacs"
   - "team-leader"
+image: /assets/img/experts.jpg
+image_alt: Experts managing project
 ---
 
 Project Title: [Technical Assistance for Training of Staff on the Spot Controls (OTSC), Risk Evaluation and IACS Software](http://epm.lv/shortlist-ta-for-training-of-staff-for-otsc-risk-evaluation-and-iacs-software-in-turkey/)

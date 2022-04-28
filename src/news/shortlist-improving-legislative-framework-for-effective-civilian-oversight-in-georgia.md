@@ -6,6 +6,8 @@ tags:
   - "georgia"
   - "legislation"
   - "parliament"
+image: /assets/img/georgia.jpg
+image_alt: Georgia flag
 ---
 
 **Title**: Improving legislative framework for effective civilian oversight

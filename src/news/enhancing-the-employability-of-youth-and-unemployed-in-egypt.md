@@ -6,6 +6,8 @@ tags:
   - "egypt"
   - "employment"
   - "youth"
+image: /assets/img/egypt.jpg
+image_alt: Egypt flag
 ---
 
 ### Enhancing the employability of Youth and unemployed / low-skilled workers, and improving their transition to employment

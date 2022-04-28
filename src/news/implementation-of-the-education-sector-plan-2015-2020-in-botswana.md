@@ -5,6 +5,8 @@ category: shortlist
 tags: 
   - "botswana"
   - "education"
+image: /assets/img/botswana.jpg
+image_alt: Elephants in Botswana
 ---
 
 ### Technical Assistance to Support the Implementation of the Education Sector Plan 2015-2020 in the Republic of Botswana

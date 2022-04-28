@@ -6,6 +6,8 @@ tags:
   - "database-design-specialist"
   - "it-analyst"
   - "kosovo"
+image: /assets/img/kosovo.jpg
+imgae_alt: Kosovo flag
 ---
 
 Project Title: [National Centralised Criminal Record System (NCCR) Kosovo](http://epm.lv/shortlist-national-centralised-criminal-record-system-in-kosovo/)

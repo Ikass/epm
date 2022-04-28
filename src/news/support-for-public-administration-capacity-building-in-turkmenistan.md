@@ -6,6 +6,8 @@ tags:
   - "capacity-development"
   - "public-administration"
   - "turkmenistan"
+image: /assets/img/turkmenistan.jpg
+image_alt: Turkmenistan flag
 ---
 
 ### Support for Public Administration Capacity Building

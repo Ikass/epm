@@ -5,6 +5,8 @@ category: ongoing
 tags: 
   - "bosnia"
   - "labour-market"
+image: /assets/img/bih-sarajevo.jpg
+image_alt: Bosnia and Herzegovina Sarajevo
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Bosnia and Herzegovina, in consortium with Hulla & Co. Human Dynamics GmbH & Co KG.

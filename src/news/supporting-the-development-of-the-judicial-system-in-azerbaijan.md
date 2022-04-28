@@ -6,6 +6,8 @@ tags:
   - "azerbaijan"
   - "judiciary"
   - "justice"
+image: /assets/img/azerbaijan.jpg
+image_alt: Azerbaijan flag
 ---
 
 ### Supporting the Development of the Judicial System an improving the Services provided by the agencies that implement Criminal Court Orders in Azerbaijan
