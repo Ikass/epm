@@ -1,8 +1,7 @@
 ---
 title: "SHORTLIST - Support to NIPAC"
-date: "2019-07-31"
-categories: 
-  - "shortlisted-projects"
+date: 2019-07-31
+category: shortlist
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with Kronauer Consulting.

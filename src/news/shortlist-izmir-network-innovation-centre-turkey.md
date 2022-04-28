@@ -1,12 +1,13 @@
 ---
 title: "Shortlist - TA for İzmir Network and Innovation Centre in Turkey"
-date: "2020-02-21"
-categories: 
-  - "shortlisted-projects"
+date: 2020-02-21
+category: shortlist
 tags: 
   - "business-development"
   - "innovation"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with International Consulting Expertise  ICE EEIG.

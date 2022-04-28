@@ -1,8 +1,7 @@
 ---
 title: "Employment and Vocational Education and Training in Belarus"
-date: "2016-09-14"
-categories: 
-  - "shortlisted-projects"
+date: 2016-09-14
+category: shortlist
 tags: 
   - "belarus"
   - "employment"

@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Rural SME Policy Support Window in Moldova"
-date: "2019-11-28"
-categories: 
-  - "shortlisted-projects"
+date: 2019-11-28
+category: shortlist
 tags: 
   - "moldova"
   - "sme"

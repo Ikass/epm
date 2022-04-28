@@ -1,8 +1,7 @@
 ---
 title: "Support to the Independence, Accountability and Efficiency of the Judiciary in Georgia"
-date: "2016-03-01"
-categories: 
-  - "shortlisted-projects"
+date: 2016-03-01
+category: shortlist
 tags: 
   - "georgia"
   - "judiciary"

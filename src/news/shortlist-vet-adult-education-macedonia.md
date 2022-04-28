@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - VET and Adult Education in Macedonia"
-date: "2020-12-21"
-categories: 
-  - "shortlisted-projects"
+date: 2020-12-21
+category: shortlist
 tags: 
   - "adult-education"
   - "north-macedonia"

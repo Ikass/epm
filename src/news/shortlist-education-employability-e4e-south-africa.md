@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Education for Employability (E4E) in South Africa"
-date: "2019-12-20"
-categories: 
-  - "shortlisted-projects"
+date: 2019-12-20
+category: shortlist
 tags: 
   - "education"
   - "south-africa"

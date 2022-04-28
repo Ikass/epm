@@ -1,6 +1,6 @@
 ---
 title: "Shortlist - e-Justice in Armenia"
-date: "2021-06-22"
+date: 2021-06-22
 category: shortlist
 tags: 
   - "armenia"

@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - TA to Support Education Sector Reform in Morocco"
-date: "2017-02-28"
-categories: 
-  - "shortlisted-projects"
+date: 2017-02-28
+category: shortlist
 tags: 
   - "education"
   - "education-reform"

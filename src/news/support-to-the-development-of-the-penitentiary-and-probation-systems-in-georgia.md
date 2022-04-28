@@ -1,8 +1,7 @@
 ---
 title: "Support to the Development of the Penitentiary and Probation Systems in Georgia"
-date: "2015-12-29"
-categories: 
-  - "shortlisted-projects"
+date: 2015-12-29
+category: shortlist
 tags: 
   - "georgia"
   - "judiciary"

@@ -1,8 +1,7 @@
 ---
 title: "AWARD - Competitiveness of ICT Sector in Kosovo"
-date: "2019-12-13"
-categories: 
-  - "ongoing-projects"
+date: 2019-12-13
+category: ongoing
 tags: 
   - "ict"
   - "kosovo"

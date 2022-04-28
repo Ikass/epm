@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Skills for Employment and Social Inclusion Programme in Jordan"
-date: "2017-06-08"
-categories: 
-  - "shortlisted-projects"
+date: 2017-06-08
+category: shortlist
 tags: 
   - "employment"
   - "jordan"

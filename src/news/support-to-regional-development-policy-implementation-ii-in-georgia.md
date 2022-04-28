@@ -1,8 +1,7 @@
 ---
 title: "Support to Regional Development Policy Implementation II in Georgia"
-date: "2016-02-16"
-categories: 
-  - "shortlisted-projects"
+date: 2016-02-16
+category: shortlist
 tags: 
   - "georgia"
   - "regional-development"

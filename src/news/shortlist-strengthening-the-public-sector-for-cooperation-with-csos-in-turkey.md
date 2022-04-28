@@ -1,12 +1,13 @@
 ---
 title: "Shortlist - Strengthening the Public Sector for Cooperation with CSOs in Turkey"
-date: "2017-02-08"
-categories: 
-  - "shortlisted-projects"
+date: 2017-02-08
+category: shortlist
 tags: 
   - "civil-society-organisations"
   - "cso"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 **Title**: Technical Assistance for Strengthening the Public Sector for Cooperation with CSOs

@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Support for Fighting Against Undeclared Work"
-date: "2017-10-26"
-categories: 
-  - "shortlisted-projects"
+date: 2017-10-26
+category: shortlist
 tags: 
   - "kosovo"
   - "labour-inspectorate"

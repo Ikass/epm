@@ -1,8 +1,7 @@
 ---
 title: "Strengthening Teaching and Research Capacity at ADA University"
-date: "2016-10-19"
-categories: 
-  - "shortlisted-projects"
+date: 2016-10-19
+category: shortlist
 tags: 
   - "azerbaijan"
   - "education"

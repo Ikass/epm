@@ -1,10 +1,11 @@
 ---
 title: "Shortlist - Strengthening the Capacity of Departments of Investment Monitoring and Coordination in Turkey"
-date: "2018-07-27"
-categories: 
-  - "shortlisted-projects"
+date: 2018-07-27
+category: shortlist
 tags: 
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 **Title**: Technical Assistance for Strengthening the Capacity of Departments of Investment Monitoring and Coordination

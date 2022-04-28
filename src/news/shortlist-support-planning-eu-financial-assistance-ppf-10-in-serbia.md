@@ -1,6 +1,6 @@
 ---
 title: "Shortlist - Support for Planning EU Financial Assistance (PPF 10) in Serbia"
-date: "2021-12-16"
+date: 2021-12-16
 category: shortlist
 tags: 
   - "eu-funds"

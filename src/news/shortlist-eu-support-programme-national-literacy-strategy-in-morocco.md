@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - EU Support Programme to National Literacy Strategy in Morocco"
-date: "2020-12-21"
-categories: 
-  - "shortlisted-projects"
+date: 2020-12-21
+category: shortlist
 tags: 
   - "morocco"
   - "national-literacy-strategy"

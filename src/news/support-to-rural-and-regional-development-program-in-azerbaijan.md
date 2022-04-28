@@ -1,8 +1,7 @@
 ---
 title: "Support to Rural and Regional Development Program in Azerbaijan"
-date: "2016-09-19"
-categories: 
-  - "shortlisted-projects"
+date: 2016-09-19
+category: shortlist
 tags: 
   - "agriculture"
   - "azerbaijan"

@@ -1,12 +1,13 @@
 ---
 title: "Technical Assistance to the Ministry of Education and Science for Improved Quality of General Education"
-date: "2016-12-02"
-categories: 
-  - "ongoing-projects"
+date: 2016-12-02
+category: ongoing
 tags: 
   - "education"
   - "general-education"
   - "tajikistan"
+image: /assets/img/tajikistan.jpg
+image_alt: Tajikistan river between mountains
 ---
 
 European Projects Management Ltd. has been awarded the **EuropeAid project contract in Tajikistan**, in consortium with the Hulla and co. Human Dynamics KG:

@@ -1,6 +1,6 @@
 ---
 title: "Shortlist - Increasing capacity of institutions in the area of Competitiveness and Innovation in Montenegro"
-date: "2021-12-06"
+date: 2021-12-06
 category: shortlist
 tags: 
   - "competitiveness-and-innovation"

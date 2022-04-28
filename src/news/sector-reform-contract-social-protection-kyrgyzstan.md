@@ -1,8 +1,7 @@
 ---
 title: "Sector Reform Contract: Social Protection Kyrgyzstan"
-date: "2016-04-26"
-categories: 
-  - "shortlisted-projects"
+date: 2016-04-26
+category: vacancies
 tags: 
   - "kyrgyzstan"
   - "social-protection"

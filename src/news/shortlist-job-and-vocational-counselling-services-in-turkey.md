@@ -1,14 +1,15 @@
 ---
 title: "Shortlist - Job and Vocational Counselling Services in Turkey"
-date: "2019-11-07"
-categories: 
-  - "shortlisted-projects"
+date: 2019-11-07
+category: shortlist
 tags: 
   - "employment"
   - "employment-services"
   - "turkey"
   - "vet"
   - "vocational-education-and-training"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with Human Dynamics.

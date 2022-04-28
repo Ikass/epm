@@ -1,6 +1,6 @@
 ---
 title: "Key Expert 2: Agri-Food Business Expert"
-date: "2021-04-20"
+date: 2021-04-20
 category: vacancies
 tags: 
   - "azerbaijan"

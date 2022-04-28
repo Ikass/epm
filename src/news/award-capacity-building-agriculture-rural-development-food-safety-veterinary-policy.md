@@ -1,8 +1,7 @@
 ---
 title: "AWARD - Capacity Building for Agriculture, Rural Development, Food Safety and Veterinary Policy"
-date: "2019-01-28"
-categories: 
-  - "ongoing-projects"
+date: 2019-01-28
+category: ongoing
 tags: 
   - "agriculture"
   - "food-safety"

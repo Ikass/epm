@@ -1,8 +1,7 @@
 ---
 title: "Team Leader - CAP and IACS Expert"
-date: "2017-01-20"
-categories: 
-  - "vacancies"
+date: 2017-01-20
+category: vacancies
 tags: 
   - "agriculture"
   - "cap"

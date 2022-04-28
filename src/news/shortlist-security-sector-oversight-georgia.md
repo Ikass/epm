@@ -1,6 +1,6 @@
 ---
 title: "Shortlist - Security Sector Oversight in Georgia"
-date: "2021-05-04"
+date: 2021-05-04
 category: shortlist
 tags: 
   - "georgia"

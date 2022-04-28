@@ -1,8 +1,7 @@
 ---
 title: "Award - Support to Implementation of National Qualifications Framework in Azerbaijan"
-date: "2017-11-07"
-categories: 
-  - "ongoing-projects"
+date: 2017-11-07
+category: ongoing
 tags: 
   - "azerbaijan"
   - "education"

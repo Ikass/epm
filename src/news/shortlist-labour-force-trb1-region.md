@@ -1,12 +1,13 @@
 ---
 title: "Shortlist - Labour Force in TRB1 Region"
-date: "2020-08-18"
-categories: 
-  - "shortlisted-projects"
+date: 2020-08-18
+category: shortlist
 tags: 
   - "labour-market"
   - "social-inclusion"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with Hulla & Co. Human Dynamics GmbH & Co KG.

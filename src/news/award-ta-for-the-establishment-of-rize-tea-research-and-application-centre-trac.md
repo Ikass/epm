@@ -1,13 +1,14 @@
 ---
 title: "Award - TA for the Establishment of Rize Tea Research and Application Centre (TRAC)"
-date: "2017-01-24"
-categories: 
-  - "ongoing-projects"
+date: 2017-01-24
+category: ongoing
 tags: 
   - "research-and-development"
   - "small-and-medium-enterprises"
   - "sme"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Project Management Ltd. has started implementing the EuropeAid project contract “_Technical Assistance for for the Establishment of Rize Tea Research and Application Centre (TRAC)_” in Turkey together with WYG Türkiye (Turkey), WYG International Limited (UK) and INCATEMA Consulting & Engineering S.L. (Spain) in a consortium led by the Project Group (Turkey).

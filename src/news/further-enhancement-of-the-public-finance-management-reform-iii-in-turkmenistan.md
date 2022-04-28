@@ -1,8 +1,7 @@
 ---
 title: "Further Enhancement of the Public Finance Management Reform III in Turkmenistan"
-date: "2016-04-22"
-categories: 
-  - "ongoing-projects"
+date: 2016-04-22
+category: ongoing
 tags: 
   - "finance"
   - "pfm"

@@ -1,8 +1,7 @@
 ---
 title: "SHORTLIST - PPF for AA in Moldova"
-date: "2019-07-25"
-categories: 
-  - "shortlisted-projects"
+date: 2019-07-25
+category: shortlist
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with International Consulting Expertise.

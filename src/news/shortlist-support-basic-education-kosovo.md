@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Support to Basic Education in Kosovo"
-date: "2020-10-05"
-categories: 
-  - "shortlisted-projects"
+date: 2020-10-05
+category: shortlist
 tags: 
   - "basic-education"
   - "kosovo"

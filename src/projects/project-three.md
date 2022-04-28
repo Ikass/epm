@@ -1,6 +1,7 @@
 ---
 title: Project Three in Turkey
 description: some lorem for the project description
+date: 2020-10-12
 category: project
 tags: [employment, turkey, sme]
 image: https://source.unsplash.com/1600x900/?turkey

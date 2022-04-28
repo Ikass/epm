@@ -1,8 +1,7 @@
 ---
 title: "Senior Expert for Developing CEEUS’ Institutional Capacity and Sustainability"
-date: "2016-11-22"
-categories: 
-  - "vacancies"
+date: 2016-11-22
+category: vacancies
 tags: 
   - "azerbaijan"
   - "education"

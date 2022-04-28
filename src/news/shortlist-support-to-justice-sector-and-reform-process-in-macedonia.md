@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Support to Justice Sector and Reform Process in Macedonia"
-date: "2018-07-03"
-categories: 
-  - "shortlisted-projects"
+date: 2018-07-03
+category: shortlist
 tags: 
   - "justice-reform"
 ---

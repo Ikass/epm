@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Policy and Legal Advice Center in Serbia"
-date: "2018-09-28"
-categories: 
-  - "shortlisted-projects"
+date: 2018-09-28
+category: shortlist
 tags: 
   - "plac"
   - "policy-and-legal-advice-center"

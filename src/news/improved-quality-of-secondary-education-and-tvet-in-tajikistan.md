@@ -1,8 +1,7 @@
 ---
 title: "Improved Quality of Secondary Education and TVET in Tajikistan"
-date: "2016-08-05"
-categories: 
-  - "shortlisted-projects"
+date: 2016-08-05
+category: shortlist
 tags: 
   - "education"
   - "tajikistan"

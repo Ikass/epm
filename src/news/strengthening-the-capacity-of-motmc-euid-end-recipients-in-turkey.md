@@ -1,10 +1,11 @@
 ---
 title: "Strengthening the Capacity of MoTMC EUID & End-Recipients in Turkey"
-date: "2016-01-05"
-categories: 
-  - "shortlisted-projects"
+date: 2016-01-05
+category: shortlist
 tags: 
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 ### Technical Assistance for Strengthening the Capacity of MoTMC EUID & End-Recipients - II

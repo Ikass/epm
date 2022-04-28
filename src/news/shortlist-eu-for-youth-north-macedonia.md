@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - EU for Youth in North Macedonia"
-date: "2020-07-04"
-categories: 
-  - "shortlisted-projects"
+date: 2020-07-04
+category: shortlist
 tags: 
   - "north-macedonia"
 ---

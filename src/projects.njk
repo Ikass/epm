@@ -20,7 +20,7 @@ eleventyNavigation:
 <!-- Projects Grid -->
     <div class="grid max-w-lg gap-5 mx-auto mt-12 lg:grid-cols-3 lg:max-w-none">
 
-    {% for project in collections.projects %}
+    {% for project in collections.projects | reverse %}
       <div class="flex flex-col overflow-hidden shadow-lg">
         <div class="flex-shrink-0">
           <img class="object-cover w-full h-48"
@@ -35,7 +35,7 @@ eleventyNavigation:
               </a>
               <span aria-hidden="true" class="mx-2"> &middot; </span>
               <p>
-                <time datetime="2020-03-16">Mar 16, 2020</time>
+                <time datetime="2020-03-16">{{ project.data.date | postDate }}</time>
               </p>
             </div>
             <a href="{{ project.url }}" class="block mt-2">

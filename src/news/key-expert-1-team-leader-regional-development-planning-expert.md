@@ -1,6 +1,6 @@
 ---
 title: "Key Expert 1: Team Leader and Regional Development Planning Expert"
-date: "2021-04-20"
+date: 2021-04-20
 category: vacancies
 draft: true
 tags: 

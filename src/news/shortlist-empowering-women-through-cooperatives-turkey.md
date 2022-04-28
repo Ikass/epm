@@ -1,11 +1,12 @@
 ---
 title: "Shortlist - Empowering Women through Cooperatives in Turkey"
-date: "2020-11-25"
-categories: 
-  - "shortlisted-projects"
+date: 2020-11-25
+category: shortlist
 tags: 
   - "women-empowerment"
   - "women-entrepreneurship"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.

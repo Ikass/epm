@@ -1,13 +1,13 @@
 ---
 title: "Study Visit to Latvia of Kosovo Communication Specialists"
-date: "2019-12-10"
-categories: 
-  - "news"
+date: 2019-12-10
+category: news
 tags: 
   - "giz"
   - "kosovo"
   - "study-visit"
 coverImage: "IMG_3825.jpg"
+image: /assets/img/IMG_3825.jpg
 ---
 
 European Projects Management Ltd. had the pleasure to support the organisation of a study visit to Latvia for Kosovo state institution communication specialists, within the framework of GIZ funded development project "[Support for the European Integration Process](https://www.giz.de/en/worldwide/18239.html)."

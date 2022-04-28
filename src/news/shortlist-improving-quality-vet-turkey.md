@@ -1,12 +1,13 @@
 ---
 title: "Shortlist - TA for Improving the Quality of VET in Turkey"
-date: "2020-03-10"
-categories: 
-  - "shortlisted-projects"
+date: 2020-03-10
+category: shortlist
 tags: 
   - "turkey"
   - "vet"
   - "vocational-education-and-training"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with NORM Consulting Danışmanlık A.Ş.

@@ -1,8 +1,7 @@
 ---
 title: "SHORTLIST - Implementation of the Association Agreement in Moldova"
-date: "2019-08-01"
-categories: 
-  - "shortlisted-projects"
+date: 2019-08-01
+category: shortlist
 tags: 
   - "association-agreement"
   - "moldova"

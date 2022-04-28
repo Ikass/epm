@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Education Reform in Serbia"
-date: "2018-09-28"
-categories: 
-  - "shortlisted-projects"
+date: 2018-09-28
+category: shortlist
 tags: 
   - "education-reform"
   - "serbia"

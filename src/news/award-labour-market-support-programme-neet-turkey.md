@@ -1,12 +1,13 @@
 ---
 title: "Award - Labour Market Support Programme for NEETs in Turkey"
-date: "2021-08-12"
-category: ongoing project
+date: 2021-08-12
+category: ongoing
 tags: 
   - "labour-market"
   - "neet"
   - "turkey"
-image: /assets/img/daniil-vnoutchkov-Zd6dhJhy_D0-unsplash-1-e1584007783806.jpg
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkey, in consortium with WEglobal.

@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Development and Implementation of a Profiling Model for Employment Centers in Kazakhstan"
-date: "2017-06-02"
-categories: 
-  - "shortlisted-projects"
+date: 2017-06-02
+category: shortlist
 tags: 
   - "employment"
   - "kazakhstan"

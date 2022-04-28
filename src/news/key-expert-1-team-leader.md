@@ -1,8 +1,7 @@
 ---
 title: "Key Expert 1: Team Leader"
-date: "2020-11-24"
-categories: 
-  - "vacancies"
+date: 2020-11-24
+category: vacancies
 tags: 
   - "basic-education"
   - "kosovo"

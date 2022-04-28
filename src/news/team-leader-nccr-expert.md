@@ -1,8 +1,7 @@
 ---
 title: "Team Leader - Legal Expert/NCCR"
-date: "2017-01-20"
-categories: 
-  - "vacancies"
+date: 2017-01-20
+category: vacancies
 tags: 
   - "criminal-justice"
   - "kosovo"

@@ -1,8 +1,7 @@
 ---
 title: "Enhancing the Employability of Youth and Unemployed in Egypt"
-date: "2015-09-30"
-categories: 
-  - "shortlisted-projects"
+date: 2015-09-30
+category: shortlist
 tags: 
   - "egypt"
   - "employment"

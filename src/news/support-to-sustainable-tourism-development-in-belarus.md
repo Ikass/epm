@@ -1,8 +1,7 @@
 ---
 title: "Support to Sustainable Tourism Development in Belarus"
-date: "2015-09-04"
-categories: 
-  - "ongoing-projects"
+date: 2015-09-04
+category: ongoing
 tags: 
   - "belarus"
   - "tourism"

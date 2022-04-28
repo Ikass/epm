@@ -1,8 +1,7 @@
 ---
 title: "Award - Education for Employment in Bosnia"
-date: "2020-08-28"
-categories: 
-  - "ongoing-projects"
+date: 2020-08-28
+category: ongoing
 tags: 
   - "bosnia"
   - "labour-market"

@@ -1,12 +1,13 @@
 ---
 title: "Shortlist - Increasing Attendance and Enrolment Rates in Secondary Education in Turkey"
-date: "2020-12-23"
-categories: 
-  - "shortlisted-projects"
+date: 2020-12-23
+category: shortlist
 tags: 
   - "attendance-and-enrolment-rates"
   - "secondary-education"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with ICE EEIG.

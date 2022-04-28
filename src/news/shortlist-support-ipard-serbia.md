@@ -1,6 +1,6 @@
 ---
 title: "Shortlist - Support to IPARD OP in Serbia"
-date: "2021-07-21"
+date: 2021-07-21
 category: shortlist
 tags: 
   - "ipard"

@@ -1,8 +1,7 @@
 ---
 title: "Support to the Education Sector in Turkmenistan (Relaunch)"
-date: "2016-03-08"
-categories: 
-  - "shortlisted-projects"
+date: 2016-03-08
+category: shortlist
 tags: 
   - "education"
   - "turkmenistan"

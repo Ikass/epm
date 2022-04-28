@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Support to Implementation of National Qualifications Framework in Azerbaijan"
-date: "2017-06-02"
-categories: 
-  - "shortlisted-projects"
+date: 2017-06-02
+category: shortlist
 tags: 
   - "azerbaijan"
   - "education"

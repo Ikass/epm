@@ -1,8 +1,7 @@
 ---
 title: "Award - Implementation of the Association Agreement in Moldova"
-date: "2020-02-06"
-categories: 
-  - "ongoing-projects"
+date: 2020-02-06
+category: ongoing
 tags: 
   - "association-agreement"
   - "moldova"

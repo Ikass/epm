@@ -1,8 +1,7 @@
 ---
 title: "AWARD - Improving the Quality of Education by Introducing Examinations at the End of Secondary Education"
-date: "2019-01-21"
-categories: 
-  - "ongoing-projects"
+date: 2019-01-21
+category: ongoing
 tags: 
   - "education"
   - "education-quality"

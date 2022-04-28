@@ -1,8 +1,7 @@
 ---
 title: "Award - EU for Youth in North Macedonia"
-date: "2020-12-01"
-categories: 
-  - "ongoing-projects"
+date: 2020-12-01
+category: ongoing
 tags: 
   - "north-macedonia"
   - "youth-employment"

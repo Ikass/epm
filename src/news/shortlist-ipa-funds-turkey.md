@@ -1,11 +1,12 @@
 ---
 title: "Shortlist - IPA Funds in Turkey"
-date: "2020-07-16"
-categories: 
-  - "shortlisted-projects"
+date: 2020-07-16
+category: shortlist
 tags: 
   - "ipa-funds"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.

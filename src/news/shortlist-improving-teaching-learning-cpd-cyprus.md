@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Improving Teaching and Learning through CPD in Cyprus"
-date: "2020-06-25"
-categories: 
-  - "shortlisted-projects"
+date: 2020-06-25
+category: shortlist
 tags: 
   - "cyprus"
   - "education-reform"

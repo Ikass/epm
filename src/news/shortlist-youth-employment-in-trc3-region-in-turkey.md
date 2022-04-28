@@ -1,12 +1,15 @@
 ---
 title: "Shortlist - Youth Employment in TRC3 Region in Turkey"
-date: "2019-10-17"
-categories: 
-  - "shortlisted-projects"
+date: 2019-10-17
+description: European Projects Management Ltd. has been shortlisted for the EuropeAid project contract.
+category: shortlist
 tags: 
   - "employment"
   - "turkey"
   - "youth-employment"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
+country: turkey
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with DT Global.

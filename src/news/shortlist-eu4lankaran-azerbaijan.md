@@ -1,6 +1,6 @@
 ---
 title: "Shortlist - EU4Lankaran in Azerbaijan"
-date: "2021-04-20"
+date: 2021-04-20
 category: shortlist
 tags: 
   - "azerbaijan"

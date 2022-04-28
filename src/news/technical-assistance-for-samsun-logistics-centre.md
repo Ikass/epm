@@ -1,13 +1,14 @@
 ---
 title: "Technical Assistance for Samsun Logistics Centre"
-date: "2016-06-15"
-categories: 
-  - "ongoing-projects"
+date: 2016-06-15
+category: ongoing
 tags: 
   - "business"
   - "entrepreneurship"
   - "sme"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Project Management Ltd. has started implementing the EuropeAid project contract "Technical Assistance for Samsun Logistics Centre" in Turkey together with WYG Türkiye (Turkey) and INCATEMA Consulting & Engineering S.L. (Spain) in a consortium led by Project Group (Turkey)

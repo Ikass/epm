@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Improving Legislative Framework for Effective Civilian Oversight in Georgia"
-date: "2017-05-11"
-categories: 
-  - "shortlisted-projects"
+date: 2017-05-11
+category: shortlist
 tags: 
   - "georgia"
   - "legislation"

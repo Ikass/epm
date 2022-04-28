@@ -1,12 +1,13 @@
 ---
 title: "Award - Improving Job and Vocational Counselling Services in Turkey"
-date: "2020-04-28"
-categories: 
-  - "ongoing-projects"
+date: 2020-04-28
+category: ongoing
 tags: 
   - "employment"
   - "employment-policy"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Projects Management Ltd. has been awarded the EuropeAid project contract in Moldova, in consortium with Hulla & Co. Human Dynamics GmbH & Co KG.

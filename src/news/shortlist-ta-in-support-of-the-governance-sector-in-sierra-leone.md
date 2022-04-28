@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - TA in Support of the Governance Sector in Sierra Leone"
-date: "2017-11-17"
-categories: 
-  - "shortlisted-projects"
+date: 2017-11-17
+category: shortlist
 tags: 
   - "parliament"
   - "sierra-leone"

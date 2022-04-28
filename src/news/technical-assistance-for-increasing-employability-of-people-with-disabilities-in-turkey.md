@@ -1,11 +1,12 @@
 ---
 title: "Technical Assistance for Increasing Employability of People with Disabilities in Turkey"
-date: "2015-12-05"
-categories: 
-  - "ongoing-projects"
+date: 2015-12-05
+category: ongoing
 tags: 
   - "employment"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Project Management Ltd. has won the EuropeAid project contract in the Republic of Turkey together with Hulla & Co. Human Dynamics KG (Austria) in a consortium with International Bund (Germany) and Darulaceze Vakfı (Turkey)

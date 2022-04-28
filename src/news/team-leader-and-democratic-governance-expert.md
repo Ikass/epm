@@ -1,8 +1,7 @@
 ---
 title: "Team Leader and Democratic Governance Expert"
-date: "2016-12-20"
-categories: 
-  - "vacancies"
+date: 2016-12-20
+category: vacancies
 tags: 
   - "justice"
   - "malawi"

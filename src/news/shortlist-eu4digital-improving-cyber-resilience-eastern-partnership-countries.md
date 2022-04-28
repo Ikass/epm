@@ -1,8 +1,7 @@
 ---
 title: "SHORTLIST - EU4Digital: Improving Cyber Resilience in the Eastern Partnership Countries"
-date: "2019-07-02"
-categories: 
-  - "shortlisted-projects"
+date: 2019-07-02
+category: shortlist
 tags: 
   - "cyber-resilience"
   - "cyber-security"

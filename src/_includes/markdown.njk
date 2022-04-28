@@ -12,9 +12,8 @@
     </header>
     <!-- image -->
     <figure>
-      <img class="w-full" src="{{ image }}" alt="" width="1600" height="900">
-        <figcaption class="text-gray-500">{{ image_alt }}</figcaption>
-      </figure>
+      <img class="w-full" src="{{ image }}" alt="{{ image_alt }}" width="1600" height="900">
+    </figure>
       <div class="text-gray-800">
         {{ content | safe }}
       </div>

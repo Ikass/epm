@@ -1,8 +1,7 @@
 ---
 title: "Award - Education for Employability in South Africa"
-date: "2020-07-04"
-categories: 
-  - "ongoing-projects"
+date: 2020-07-04
+category: ongoing
 tags: 
   - "education-system-reform"
   - "employment-services"

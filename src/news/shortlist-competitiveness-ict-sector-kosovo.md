@@ -1,8 +1,7 @@
 ---
 title: "SHORTLIST - Competitiveness of ICT Sector in Kosovo"
-date: "2019-07-19"
-categories: 
-  - "shortlisted-projects"
+date: 2019-07-19
+category: shortlist
 tags: 
   - "ict"
   - "information-technology"

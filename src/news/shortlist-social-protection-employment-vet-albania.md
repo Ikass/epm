@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Social Protection, Employment and VET in Albania"
-date: "2020-07-22"
-categories: 
-  - "shortlisted-projects"
+date: 2020-07-22
+category: shortlist
 tags: 
   - "albania"
   - "employment-policy"

@@ -1,8 +1,7 @@
 ---
 title: "Supporting the Development of the Judicial System in Azerbaijan"
-date: "2015-10-06"
-categories: 
-  - "shortlisted-projects"
+date: 2015-10-06
+category: shortlist
 tags: 
   - "azerbaijan"
   - "judiciary"

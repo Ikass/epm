@@ -1,10 +1,11 @@
 ---
 title: "Shortlist - Implementation of Civil Society Dialogue and Support Programmes in Turkey"
-date: "2018-08-14"
-categories: 
-  - "shortlisted-projects"
+date: 2018-08-14
+category: shortlist
 tags: 
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 **Title**: Technical Assistance for Implementation of Civil Society Dialogue and Civil Society Support Programmes

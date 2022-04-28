@@ -1,8 +1,7 @@
 ---
 title: "Support to the Education Sector in the Kyrgyz Republic"
-date: "2013-12-19"
-categories: 
-  - "ongoing-projects"
+date: 2013-12-19
+category: shortlist
 tags: 
   - "education"
   - "kyrgyzstan"

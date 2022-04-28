@@ -1,8 +1,7 @@
 ---
 title: "Finance Manager"
-date: "2016-12-20"
-categories: 
-  - "vacancies"
+date: 2016-12-20
+category: vacancies
 tags: 
   - "justice"
   - "malawi"

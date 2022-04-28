@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Smallholder Agriculture Reform in Ukraine"
-date: "2020-08-04"
-categories: 
-  - "shortlisted-projects"
+date: 2020-08-04
+category: shortlist
 tags: 
   - "agriculture"
   - "ukraine"

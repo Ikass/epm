@@ -1,13 +1,14 @@
 ---
 title: "Technical Assistance for 'Maraş Pepper Cluster'"
-date: "2016-11-03"
-categories: 
-  - "shortlisted-projects"
+date: 2016-11-03
+category: shortlist
 tags: 
   - "business"
   - "entrepreneurship"
   - "sme"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 Title: **Technical Assistance for 'Maraş Pepper Cluster' in the South-east Anatolia Region**

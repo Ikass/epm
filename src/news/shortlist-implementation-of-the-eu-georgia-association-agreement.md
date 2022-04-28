@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Implementation of the EU-Georgia Association Agreement"
-date: "2018-09-20"
-categories: 
-  - "shortlisted-projects"
+date: 2018-09-20
+category: shortlist
 tags: 
   - "association-agreement"
   - "georgia"

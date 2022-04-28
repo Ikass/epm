@@ -1,8 +1,7 @@
 ---
 title: "Support for Public Administration Capacity Building in Turkmenistan"
-date: "2016-04-08"
-categories: 
-  - "shortlisted-projects"
+date: 2016-04-08
+category: shortlist
 tags: 
   - "capacity-development"
   - "public-administration"

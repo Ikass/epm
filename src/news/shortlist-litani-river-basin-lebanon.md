@@ -1,6 +1,6 @@
 ---
 title: "Shortlist – Litani River Basin in Lebanon"
-date: "2021-07-13"
+date: 2021-07-13
 category: shortlist
 tags: 
   - "lebanon"

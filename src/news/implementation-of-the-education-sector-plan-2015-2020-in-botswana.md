@@ -1,8 +1,7 @@
 ---
 title: "Implementation of the Education Sector Plan 2015-2020 in Botswana"
-date: "2016-04-23"
-categories: 
-  - "shortlisted-projects"
+date: 2016-04-23
+category: shortlist
 tags: 
   - "botswana"
   - "education"

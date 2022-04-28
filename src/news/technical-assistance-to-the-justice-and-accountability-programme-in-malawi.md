@@ -1,8 +1,7 @@
 ---
 title: "Technical Assistance to the Justice and Accountability Programme in Malawi"
-date: "2016-12-06"
-categories: 
-  - "shortlisted-projects"
+date: 2016-12-06
+category: shortlist
 tags: 
   - "justice"
   - "malawi"

@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - TA to Support the Reform on Employment and VET in Albania"
-date: "2020-06-02"
-categories: 
-  - "shortlisted-projects"
+date: 2020-06-02
+category: shortlist
 tags: 
   - "albania"
   - "employment-services"

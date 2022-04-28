@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - National Centralised Criminal Record System in Kosovo"
-date: "2017-01-16"
-categories: 
-  - "shortlisted-projects"
+date: 2017-01-16
+category: shortlist
 tags: 
   - "criminal-justice"
   - "criminal-policy"

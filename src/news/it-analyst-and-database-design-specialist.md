@@ -1,8 +1,7 @@
 ---
 title: "IT Analyst and Database Design Specialist"
-date: "2017-01-20"
-categories: 
-  - "vacancies"
+date: 2017-01-20
+category: vacancies
 tags: 
   - "database-design-specialist"
   - "it-analyst"

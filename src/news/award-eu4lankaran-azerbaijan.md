@@ -1,7 +1,7 @@
 ---
 title: "Award - EU4Lankaran in Azerbaijan"
-date: "2021-07-27"
-category: ongoing project
+date: 2021-07-27
+category: ongoing
 tags: 
   - "agriculture"
   - "azerbaijan"

@@ -1,8 +1,7 @@
 ---
 title: "Support to the Development of the Criminal Policy, Prosecution and Investigation Georgia"
-date: "2016-10-25"
-categories: 
-  - "ongoing-projects"
+date: 2016-10-25
+category: ongoing
 tags: 
   - "criminal-policy"
   - "georgia"

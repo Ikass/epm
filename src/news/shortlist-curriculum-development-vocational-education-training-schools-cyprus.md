@@ -1,8 +1,7 @@
 ---
 title: "SHORTLIST – Curriculum Development in Vocational Education and Training Schools in Cyprus"
-date: "2019-07-11"
-categories: 
-  - "shortlisted-projects"
+date: 2019-07-11
+category: shortlist
 tags: 
   - "curriculum-development"
   - "cyprus"

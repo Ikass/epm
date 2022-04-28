@@ -1,8 +1,7 @@
 ---
 title: "Key Expert 1: Programme Co-ordinator/Team Leader"
-date: "2019-07-03"
-categories: 
-  - "vacancies"
+date: 2019-07-03
+category: vacancies
 tags: 
   - "bangladesh"
   - "team-leader"

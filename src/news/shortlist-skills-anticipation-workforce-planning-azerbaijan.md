@@ -1,8 +1,7 @@
 ---
 title: "SHORTLIST - Skills Anticipation and Workforce Planning in Azerbaijan"
-date: "2019-08-27"
-categories: 
-  - "shortlisted-projects"
+date: 2019-08-27
+category: shortlist
 tags: 
   - "azerbaijan"
   - "labour-market"

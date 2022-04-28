@@ -1,8 +1,7 @@
 ---
 title: "Award - Enhancing the Employability of Youth and Unemployed in Egypt"
-date: "2017-01-31"
-categories: 
-  - "ongoing-projects"
+date: 2017-01-31
+category: ongoing
 tags: 
   - "egypt"
   - "employment"

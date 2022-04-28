@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Preschool Education System Reform in Serbia"
-date: "2018-09-14"
-categories: 
-  - "shortlisted-projects"
+date: 2018-09-14
+category: shortlist
 tags: 
   - "education"
   - "education-system-reform"

@@ -1,8 +1,7 @@
 ---
 title: "Vocational Education and Training in Azerbaijan"
-date: "2016-08-29"
-categories: 
-  - "shortlisted-projects"
+date: 2016-08-29
+category: shortlist
 tags: 
   - "azerbaijan"
   - "vet"

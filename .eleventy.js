@@ -1,5 +1,6 @@
 const htmlmin = require('html-minifier');
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const { DateTime } = require("luxon");
 
 // Generate responsive images
 // borrowed from here: https://github.com/brycewray/eleventy_solo_starter_njk
@@ -55,6 +56,11 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addShortcode('version', function () {
     return now
+  });
+
+  // add Luxon date format filter 
+  eleventyConfig.addFilter("postDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
   });
 
   // add Image shortcode

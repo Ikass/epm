@@ -1,8 +1,7 @@
 ---
 title: "Support to the Education Sector in Turkmenistan"
-date: "2016-09-27"
-categories: 
-  - "ongoing-projects"
+date: 2016-09-27
+category: ongoing
 tags: 
   - "education"
   - "turkmenistan"

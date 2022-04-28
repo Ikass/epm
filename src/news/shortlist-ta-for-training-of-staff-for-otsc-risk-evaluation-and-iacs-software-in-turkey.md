@@ -1,11 +1,12 @@
 ---
 title: "Shortlist - TA for Training of Staff for OTSC, Risk Evaluation and IACS Software in Turkey"
-date: "2017-01-12"
-categories: 
-  - "shortlisted-projects"
+date: 2017-01-12
+category: shortlist
 tags: 
   - "rural-development"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 **Title**: Technical Assistance for Training of Staff on the Spot Controls (OTSC), Risk Evaluation and IACS Software, Turkey

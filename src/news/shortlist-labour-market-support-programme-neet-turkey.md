@@ -1,12 +1,13 @@
 ---
 title: "Shortlist - Labour Market Support Programme for NEETs in Turkey"
-date: "2020-12-28"
-categories: 
-  - "shortlisted-projects"
+date: 2020-12-28
+category: shortlist
 tags: 
   - "labour-market"
   - "neet"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 European Projects Management Ltd. has been shortlisted for the EuropeAid project contract, in consortium with WEglobal.

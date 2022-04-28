@@ -1,8 +1,7 @@
 ---
 title: "Award - TA in Support of the Areas of Civil Service Reform, Parliament and the Electoral Cycle in Sierra Leone"
-date: "2018-02-28"
-categories: 
-  - "ongoing-projects"
+date: 2018-02-28
+category: ongoing
 tags: 
   - "governance"
   - "parliament"

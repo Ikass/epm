@@ -1,11 +1,12 @@
 ---
 title: "Shortlist - TA for Management Capacity of the DoEUI in Turkey"
-date: "2018-06-20"
-categories: 
-  - "shortlisted-projects"
+date: 2018-06-20
+category: shortlist
 tags: 
   - "eu-funds"
   - "turkey"
+image: /assets/img/turkey.jpg
+image_alt: Turkey flag
 ---
 
 **Title**: Technical Assistance for Strengthening the Management Capacity of the DoEUI for the Second Implementation Period and Capacity Building for the End-Recipients

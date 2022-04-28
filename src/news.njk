@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 2
 ---
 <!-- News section -->
-<div class="px-4 pt-16 pb-20 bg-white sm:px-6 lg:pt-24 lg:pb-28 lg:px-8">
+<div class="px-4 pt-16 pb-20 sm:px-6 lg:pt-24 lg:pb-28 lg:px-8">
   <div class="relative max-w-lg mx-auto divide-y-2 divide-gray-200 lg:max-w-7xl">
     <header>
       <h1 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">{{ title }}</h1>
@@ -18,15 +18,20 @@ eleventyNavigation:
     </header>
     <div class="grid gap-16 pt-10 mt-6 lg:grid-cols-2 lg:gap-x-5 lg:gap-y-12">
 
-    {% for news in collections.news %}
-
-      <div>
+    {% for news in collections.news | reverse %}
+    <div class="flex">
+        <div class="flex-shrink-0">
+          <img class="object-cover w-48 h-full"
+            src="{{ news.data.image }}"
+            alt="{{ news.data.image_alt }}">
+        </div>
+      <div class="ml-4">
         <div class="flex items-baseline">
           <a href="{{ news.url }}" class="">
             <span class="text-sky-500 inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium bg-sky-50 "> {{ news.data.category | capitalize }} </span>
           </a>
           <p class="ml-3 text-sm text-gray-500">
-            <time datetime="2020-03-16">Mar 16, 2020</time>
+            <time datetime="2020-03-16">{{ news.data.date | postDate }}</time>
           </p>
         </div>
         <a href="{{ news.url }}" class="block mt-2">
@@ -37,6 +42,7 @@ eleventyNavigation:
           <a href="{{ news.url }}" class="text-base font-semibold text-sky-600 hover:text-sky-500">Read full story</a>
         </div>
       </div>
+    </div>
 
     {% endfor %}
 

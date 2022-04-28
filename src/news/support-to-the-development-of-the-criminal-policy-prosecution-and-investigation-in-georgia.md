@@ -1,8 +1,7 @@
 ---
 title: "Support to the Development of the Criminal Policy, Prosecution and Investigation in Georgia"
-date: "2016-03-22"
-categories: 
-  - "shortlisted-projects"
+date: 2016-03-22
+category: shortlist
 tags: 
   - "criminal-policy"
   - "georgia"

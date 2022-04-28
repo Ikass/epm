@@ -1,8 +1,7 @@
 ---
 title: "AWARD - TA to Skills Development for Matching Labour Market Needs in Georgia"
-date: "2019-10-01"
-categories: 
-  - "ongoing-projects"
+date: 2019-10-01
+category: ongoing
 tags: 
   - "employment"
   - "georgia"

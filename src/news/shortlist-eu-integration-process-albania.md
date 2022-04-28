@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - EU Integration Process of Albania"
-date: "2020-07-14"
-categories: 
-  - "shortlisted-projects"
+date: 2020-07-14
+category: shortlist
 tags: 
   - "albania"
   - "eu-integration-expert"

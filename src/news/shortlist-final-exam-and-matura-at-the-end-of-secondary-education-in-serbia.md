@@ -1,8 +1,7 @@
 ---
 title: "Shortlist - Final Exam and Matura at the end of Secondary Education in Serbia"
-date: "2018-05-15"
-categories: 
-  - "shortlisted-projects"
+date: 2018-05-15
+category: shortlist
 tags: 
   - "education"
   - "examination"
