@@ -9,13 +9,16 @@ tags:
 image: /assets/img/georgia.jpg
 image_alt: Georgia flag
 ---
+#### Project title:
 
-### Support to the Independence, Accountability and Efficiency of the Judiciary
+Support to the Independence, Accountability and Efficiency of the Judiciary
 
-Location: Georgia
+#### Location: 
+
+Georgia
+
+#### Reference:
 
 EuropeAid/137524/DHSER/GE
 
 Publication date of contract notice: 1 March 2016
-
-[Download full shortlist here](http://epm.lv/files/shortlist_137524_Georgia_Judiciary.pdf)

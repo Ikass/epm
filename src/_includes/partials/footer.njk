@@ -1,5 +1,19 @@
 <footer class="w-full bg-gray-600">
-    <div class="container px-8 py-8">
-        <a href="{{ metadata.url | url }}" class="text-yellow-100 hover:text-yellow-300">Home</a>
-    </div>
+  <div class="px-4 py-12 mx-auto overflow-hidden max-w-7xl sm:px-6 lg:px-8">
+    <nav class="flex flex-wrap justify-center -mx-5 -my-2" aria-label="Footer">
+        {%- for entry in collections.all | eleventyNavigation %}
+        <div class="px-5 py-2">
+            <a href="{{ entry.url | url }}" class="text-base text-gray-300 hover:text-gray-100"> {{ entry.title }} </a>
+        </div>
+        {% endfor %}
+    </nav>
+    <!-- LinkedIn logo -->
+    {# <div class="flex justify-center mt-8 space-x-6">
+        <a href="#" class="text-gray-400 hover:text-gray-500">
+            <img src="/assets/img/linkedin.svg" alt="LinkedIn logo" class="w-8 h-8 text-gray-100 bg-gray-400">
+            <span class="sr-only">LinkedIn</span>
+        </a>
+    </div> #}
+    <p class="mt-8 text-base text-center text-gray-400">&copy; 2022 EPM. All rights reserved.</p>
+  </div>
 </footer>
