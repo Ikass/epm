@@ -1,6 +1,7 @@
 ---
 title: "Award - Implementation of the Association Agreement in Moldova"
 date: 2020-02-06
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in Moldova, in consortium with Hulla & Co Human Dynamics.
 category: ongoing
 tags: 
   - "association-agreement"
@@ -8,16 +9,9 @@ tags:
 image: /assets/img/moldova.jpg
 image_alt: Moldova flag
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in Moldova, in consortium with Hulla & Co Human Dynamics.
-
-![Moldova sunset](images/valeria-cerbu-7b2TYicH-xI-unsplash-e1594020707330-1024x445.jpg)
-
-Photo by [Valeria Cerbu](https://unsplash.com/@valeria_cerbu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/moldova?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 #### Project Title:
 
-****Support for structured policy dialogue, coordination of the implementation of the Association Agreement and enhancement of the legal approximation process****
+**Support for structured policy dialogue, coordination of the implementation of the Association Agreement and enhancement of the legal approximation process**
 
 #### Location:
 
@@ -25,7 +19,7 @@ Moldova
 
 #### Project Reference:
 
-[EuropeAid/139112/DH/SER/MD](https://webgate.ec.europa.eu/europeaid/online-services/index.cfm?ADSSChck=1518596045504&do=publi.detPUB&searchtype=AS&zgeo=35503&aoet=36539&ccnt=7573877&debpub=&orderby=upd&orderbyad=Desc&nbPubliList=15&page=1&aoref=139112)
+EuropeAid/139112/DH/SER/MD
 
 #### Value of the Contract:
 

@@ -1,5 +1,6 @@
 ---
 title: "AWARD - Capacity Building for Agriculture, Rural Development, Food Safety and Veterinary Policy"
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in Serbia, in consortium with WEglobal.
 date: 2019-01-28
 category: ongoing
 tags: 
@@ -12,12 +13,9 @@ tags:
 image: /assets/img/serbia-belgrade.jpg
 image_alt: Serbia flag
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in Serbia, in consortium with WEglobal.
-
 #### Project Title:
 
-**Capacity Building for the alignment with the** _**acquis**_ **in the areas of Agriculture, Rural Development, Food Safety, Veterinary and Phytosanitary Policy**
+**Capacity Building for the alignment with the _acquis_ in the areas of Agriculture, Rural Development, Food Safety, Veterinary and Phytosanitary Policy**
 
 #### Location:
 
@@ -25,7 +23,7 @@ Serbia
 
 #### Project Reference:
 
-[EuropeAid/138038/DH/SER/RS](https://webgate.ec.europa.eu/europeaid/online-services/index.cfm?do=publi.welcome&nbPubliList=15&orderby=upd&orderbyad=Desc&searchtype=RS&aofr=138038)
+EuropeAid/138038/DH/SER/RS
 
 #### Value of the Contract:
 

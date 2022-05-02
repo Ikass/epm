@@ -1,6 +1,7 @@
 ---
 title: "AWARD - Technical Assistance for Increasing the Quality of the Special Education Services for Inclusive Education"
 date: 2019-06-28
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkey, in consortium with WYG Turkey.
 category: ongoing
 tags: 
   - "education-quality"
@@ -9,9 +10,6 @@ tags:
 image: /assets/img/turkey.jpg
 image_alt: Turkey flag
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkey, in consortium with WYG Turkey.
-
 #### Project Title:
 
 **Technical Assistance for Increasing the Quality of the Special Education Services for Inclusive Education**
@@ -22,7 +20,7 @@ Turkey
 
 #### Project Reference:
 
-[EuropeAid/139588/IH/SER/TR](https://webgate.ec.europa.eu/europeaid/online-services/index.cfm?do=publi.welcome&nbPubliList=15&orderby=upd&orderbyad=Desc&searchtype=RS&aofr=139588)
+EuropeAid/139588/IH/SER/TR
 
 #### Value of the Contract:
 

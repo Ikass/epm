@@ -1,6 +1,7 @@
 ---
 title: "Award - Increase the Efficiency and Productivity of IPA Funds in Turkey"
 date: 2020-12-02
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkey, in consortium with WEglobal.
 category: ongoing
 tags: 
   - "ipa-funds"
@@ -8,16 +9,9 @@ tags:
 image: /assets/img/turkey.jpg
 image_alt: Turkey flag
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkey, in consortium with WEglobal.
-
-![Turkey](images/daniil-vnoutchkov-Zd6dhJhy_D0-unsplash-1-e1584007783806.jpg)
-
-Photo by Daniil Vnoutchkov on Unsplash
-
 #### Project Title:
 
-**_Strengthening of an integrated strategic approach to increase the efficiency and productivity of IPA funds during the third period (2021- 2027)_**
+**Strengthening of an integrated strategic approach to increase the efficiency and productivity of IPA funds during the third period (2021- 2027)**
 
 #### Location:
 

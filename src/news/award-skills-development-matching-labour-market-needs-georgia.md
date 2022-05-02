@@ -1,6 +1,7 @@
 ---
 title: "AWARD - TA to Skills Development for Matching Labour Market Needs in Georgia"
 date: 2019-10-01
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in Georgia, in consortium with GOPA.
 category: ongoing
 tags: 
   - "employment"
@@ -10,9 +11,6 @@ tags:
 image: /assets/img/georgia.jpg
 image_alt: Georgia flag
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in Georgia, in consortium with GOPA.
-
 #### Project Title:
 
 **Technical Assistance to Skills Development for Matching Labour Market Needs**
@@ -23,7 +21,7 @@ Georgia
 
 #### Project Reference:
 
-[EuropeAid/139718/DH/SER/GE](https://webgate.ec.europa.eu/europeaid/online-services/index.cfm?ADSSChck=1529394972169&do=publi.detPUB&searchtype=QS&orderby=upd&orderbyad=Desc&nbPubliList=15&page=1&aoref=139718)
+EuropeAid/139718/DH/SER/GE
 
 #### Value of the Contract:
 

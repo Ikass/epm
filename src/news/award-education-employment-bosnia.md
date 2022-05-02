@@ -1,6 +1,7 @@
 ---
 title: "Award - Education for Employment in Bosnia"
 date: 2020-08-28
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in Bosnia and Herzegovina, in consortium with Hulla & Co. Human Dynamics GmbH & Co KG.
 category: ongoing
 tags: 
   - "bosnia"
@@ -8,16 +9,9 @@ tags:
 image: /assets/img/bih-sarajevo.jpg
 image_alt: Bosnia and Herzegovina Sarajevo
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in Bosnia and Herzegovina, in consortium with Hulla & Co. Human Dynamics GmbH & Co KG.
-
-![Bosnia](images/luka-korica-EkjkHpDyVZI-unsplash-e1599216533950-1024x548.jpg)
-
-Photo by [Luka Korica](https://unsplash.com/@lkorica_photo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 #### Project Title:
 
-**_Education for Employment_**
+**Education for Employment**
 
 #### Location:
 
@@ -25,7 +19,7 @@ Bosnia and Herzegovina
 
 #### Project Reference:
 
-[EuropeAid/140102/DH/SER/BA](https://webgate.ec.europa.eu/europeaid/online-services/index.cfm?ADSSChck=1549876208267&do=publi.detPUB&searchtype=QS&orderby=upd&orderbyad=Desc&nbPubliList=15&page=2&aoref=140102)
+EuropeAid/140102/DH/SER/BA
 
 #### Value of the Contract:
 

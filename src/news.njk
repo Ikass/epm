@@ -7,8 +7,8 @@ eleventyNavigation:
   order: 2
 pagination:
   data: collections.news
-  size: 10
-  alias: news
+  size: 20
+  alias: posts
 ---
 <!-- News section -->
 <div class="px-4 py-12 sm:px-6 lg:py-18 lg:px-8">
@@ -21,29 +21,29 @@ pagination:
       </div>
     </header>
 
-    <div class="grid gap-16 py-10 my-6 lg:grid-cols-2 lg:gap-x-5 lg:gap-y-12">
-      {% for news in news | reverse %}
-        <div class="flex">
+    <div class="grid gap-8 py-10 my-6 sm:gap-16 lg:grid-cols-2 lg:gap-x-5 lg:gap-y-12">
+      {% for post in posts | sort(reverse='true', attribute='post.data.date') | reverse %}
+        <div class="flex flex-col bg-white shadow-lg sm:flex-row">
             <div class="flex-shrink-0">
-              <img class="object-cover w-48 h-full"
-                src="{{ news.data.image }}"
-                alt="{{ news.data.image_alt }}">
+              <img class="object-cover w-full h-48 sm:h-full sm:w-48"
+                src="{{ post.data.image }}"
+                alt="{{ post.data.image_alt }}">
             </div>
-          <div class="ml-4">
+          <div class="p-6">
             <div class="flex items-baseline">
-              <a href="{{ news.url }}" class="">
-                <span class="text-sky-500 inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium bg-sky-50 "> {{ news.data.category | capitalize }} </span>
+              <a href="{{ post.url }}" class="">
+                <span class="text-sky-500 inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium bg-sky-50 "> {{ post.data.category | capitalize }} </span>
               </a>
               <p class="ml-3 text-sm text-gray-500">
-                <time datetime="2020-03-16">{{ news.data.date | postDate }}</time>
+                <time datetime="2020-03-16">{{ post.data.date | postDate }}</time>
               </p>
             </div>
-            <a href="{{ news.url }}" class="block mt-2">
-              <p class="text-xl font-semibold text-gray-900">{{ news.data.title }}</p>
-              <p class="mt-3 text-base text-gray-500">{{ news.data.description }}</p>
+            <a href="{{ post.url }}" class="block mt-2">
+              <p class="text-xl font-semibold text-gray-900">{{ post.data.title }}</p>
+              <p class="mt-3 text-base text-gray-500">{{ post.data.description }}</p>
             </a>
             <div class="mt-3">
-              <a href="{{ news.url }}" class="text-base font-semibold text-sky-600 hover:text-sky-500">Read full story</a>
+              <a href="{{ post.url }}" class="text-base font-semibold text-sky-600 hover:text-sky-500">Read full story</a>
             </div>
           </div>
         </div>

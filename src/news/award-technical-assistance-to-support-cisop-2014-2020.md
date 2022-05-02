@@ -1,6 +1,7 @@
 ---
 title: "AWARD - Technical Assistance to Support CISOP 2014-2020"
 date: 2019-02-14
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkey, in consortium with WEglobal.
 category: ongoing
 tags: 
   - "operational-programme"
@@ -8,9 +9,6 @@ tags:
 image: /assets/img/turkey.jpg
 image_alt: Turkey flag
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkey, in consortium with WEglobal.
-
 #### Project Title:
 
 **Technical Assistance to Support CISOP 2014-2020**
@@ -21,7 +19,7 @@ Turkey
 
 #### Project Reference:
 
-[EuropeAid/139065/IH/SER/TR](https://webgate.ec.europa.eu/europeaid/online-services/index.cfm?do=publi.welcome&nbPubliList=15&orderby=upd&orderbyad=Desc&searchtype=RS&aofr=139065+)
+EuropeAid/139065/IH/SER/TR
 
 #### Value of the Contract:
 

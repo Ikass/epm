@@ -6,7 +6,7 @@ image: https://images.unsplash.com/photo-1556727889-289d526d14cd?ixlib=rb-1.2.1&
 image_alt: Aerial view of the Freedom Monument in Riga, Latvia
 eleventyNavigation:
   key: About
-  order: 4
+  order: 5
 ---
 We are a Latvia-based management and development consultancy, providing services to public sector clients, within the framework of EU external development aid projects. 
 

@@ -1,5 +1,6 @@
 ---
 title: "AWARD - Competitiveness of ICT Sector in Kosovo"
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in Kosovo, in consortium with WEglobal.
 date: 2019-12-13
 category: ongoing
 tags: 
@@ -8,13 +9,6 @@ tags:
 image: /assets/img/kosovo.jpg
 image_alt: Kosovo flag
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in Kosovo, in consortium with WEglobal.
-
-![Kosovo flag](images/Kosovo-flag-1024x551.jpeg)
-
-[Background photo created by natanaelginting - www.freepik.com](https://www.freepik.com/free-photos-vectors/background)
-
 #### Project Title:
 
 **EU Support for the Competitiveness of Kosovo’s ICT Sector**
@@ -25,7 +19,7 @@ Kosovo
 
 #### Project Reference:
 
-[EuropeAid/139756/DH/SER/XK](https://webgate.ec.europa.eu/europeaid/online-services/index.cfm?do=publi.welcome&nbPubliList=15&orderby=upd&orderbyad=Desc&searchtype=RS&aofr=139756)
+EuropeAid/139756/DH/SER/XK
 
 #### Value of the Contract:
 
