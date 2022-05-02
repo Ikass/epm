@@ -1,6 +1,7 @@
 ---
 title: "Award - Education for Employability in South Africa"
 date: 2020-07-04
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in South Africa, in consortium with Hulla & Co. Human Dynamics GmbH & Co KG.
 category: ongoing
 tags: 
   - "education-system-reform"
@@ -9,16 +10,9 @@ tags:
 image: /assets/img/south-africa.jpg
 image_alt: South Africa flag
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in South Africa, in consortium with Hulla & Co. Human Dynamics GmbH & Co KG.
-
-![Cape Town, South Africa](images/tobias-fischer-zZLQzxk_MOU-unsplash-e1599216853965-1024x433.jpg)
-
-Photo by [Tobias Fischer](https://unsplash.com/@tofi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 #### Project Title:
 
-****_Education for Employability (E4E)_****
+**Education for Employability (E4E)**
 
 #### Location:
 
@@ -26,7 +20,7 @@ South Africa
 
 #### Project Reference:
 
-[EuropeAid/140391/DH/SER/ZA](https://epm.lv/shortlist-education-employability-e4e-south-africa/)
+[EuropeAid/140391/DH/SER/ZA](/news/shortlist-education-employability-e4e-south-africa/)
 
 #### Value of the Contract:
 

@@ -1,6 +1,7 @@
 ---
 title: "AWARD - Improving the Quality of Education by Introducing Examinations at the End of Secondary Education"
 date: 2019-01-21
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkey, in consortium with Hulla and co. Human Dynamics KG.
 category: ongoing
 tags: 
   - "education"
@@ -10,9 +11,6 @@ tags:
 image: /assets/img/serbia-belgrade.jpg
 image_alt: Serbia flag
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in Turkey, in consortium with Hulla and co. Human Dynamics KG.
-
 #### Project Title:
 
 **Improving the Quality of Education by Introducing Examinations at the End of Secondary Education**
@@ -23,7 +21,7 @@ Serbia
 
 #### Project Reference:
 
-[EuropeAid/138188/DH/SER/RS](https://webgate.ec.europa.eu/europeaid/online-services/index.cfm?do=publi.welcome&nbPubliList=15&orderby=upd&orderbyad=Desc&searchtype=RS&aofr=138188)
+EuropeAid/138188/DH/SER/RS
 
 #### Value of the Contract:
 

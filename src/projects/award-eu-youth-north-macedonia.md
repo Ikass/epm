@@ -1,6 +1,7 @@
 ---
 title: "Award - EU for Youth in North Macedonia"
 date: 2020-12-01
+description: European Projects Management Ltd. has been awarded the EuropeAid project contract in North Macedonia, in consortium with WEglobal.
 category: ongoing
 tags: 
   - "north-macedonia"
@@ -9,16 +10,9 @@ tags:
 image: /assets/img/macedonia.jpg
 image_alt: Macedonia flag
 ---
-
-European Projects Management Ltd. has been awarded the EuropeAid project contract in North Macedonia, in consortium with WEglobal.
-
-![Aerial photo of Skopje, North Macedonia](images/aleksandar-kyng-h5kVNpuUIco-unsplash-1-e1596531193849-1024x425.jpg)
-
-Photo by Aleksandar Kyng on Unsplash
-
 #### Project Title:
 
-**_EU for YOUTH_**
+**EU for YOUTH**
 
 #### Location:
 

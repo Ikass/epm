@@ -1,5 +1,6 @@
 ---
 title: Page not found!
+description: Go back to the <a href="{{ "/" | url }}">home page.</a>
 layout: markdown
 permalink: /404.html
 eleventyExcludeFromCollections: true
@@ -15,6 +16,6 @@ image_alt: Aerial view of forests and river in Latvia
   </head>
   <body>
     <h1>{{ title }}</h1>
-    <p>That page does not exist. Go back to the <a href="{{ "/" | url }}">home page.</a></p>
+    <p>That page does not exist. Go back to the <a class="text-sky-500" href="{{ "/" | url }}">home page.</a></p>
   </body>
 </html>
