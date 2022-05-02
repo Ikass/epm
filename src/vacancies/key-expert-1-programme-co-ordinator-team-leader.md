@@ -7,7 +7,6 @@ tags:
   - "team-leader"
 image: /assets/img/experts.jpg
 image_alt: Experts managing project
-permalink: false
 ---
 
 #### Project Title:

@@ -8,16 +8,10 @@ tags:
   - "team-leader"
 image: /assets/img/experts.jpg
 image_alt: Experts managing project
-permalink: false
 ---
-
-![Training Expert](images/helloquence-5fNmWej4tAA-unsplash-e1584007690957.jpg)
-
-Photo by Helloquence on Unsplash
-
 #### Project Title:
 
-******_****_**[Support to basic and upper secondary education](https://epm.lv/shortlist-support-to-basic-education-in-kosovo/)**_****_******
+[Support to basic and upper secondary education](/news/shortlist-support-basic-education-kosovo/)
 
 #### Location:
 
@@ -25,7 +19,7 @@ Kosovo
 
 #### Position:
 
-**_Key Expert 1: Team Leader_**
+**Key Expert 1: Team Leader**
 
 #### Qualifications and Skills:
 

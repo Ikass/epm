@@ -8,7 +8,7 @@ tags:
   - "kosovo"
 image: /assets/img/kosovo.jpg
 imgae_alt: Kosovo flag
-permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 Project Title: [National Centralised Criminal Record System (NCCR) Kosovo](http://epm.lv/shortlist-national-centralised-criminal-record-system-in-kosovo/)
