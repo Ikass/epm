@@ -1,22 +1,13 @@
-# An 11ty/Eleventy starter template, using TailwindCSS, Netlify and Alpinejs.
+# [epm.lv](https://www.epm.lv) website redesign
+Using a custom 11ty/Eleventy starter template, with TailwindCSS, Netlify and Alpinejs.
+
+[Live version on Netlify](https://velvet-frodo.netlify.app/)
 
 A starter repository for building a website with the [Eleventy](https://www.11ty.dev), [Tailwind CSS](https://tailwindcss.com), and [Alpine.js](https://alpinejs.dev).
 
 Netlify badge:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cf8dca48-deea-4207-97f0-ae1db1bbd2b8/deploy-status)](https://app.netlify.com/sites/velvet-frodo/deploys)
 
-Live version [here](https://velvet-frodo.netlify.app/)
-
-## To-Do:
-
-- [x] add eleventy image plugin
-- [x] eleventy navigation plugin
-- [ ] add SEO metatags support
-- [x] add robots.txt and sitemap.xml generator
-- [ ] add basic layouts/styles
-- [ ] multilingual support
-- [x] add TailwindCSS typography and forms plugins
-- [x] add NetlifyCMS
 
 ## Getting Started
 
@@ -43,15 +34,3 @@ npm install
 ```
 npm run start
 ```
-
-## Author
-
-[Original template](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter) made by Greg Wolanski.
-
-Learn more on CSS-Tricks: [An Eleventy Starter with Tailwind CSS and Alpine.js](https://css-tricks.com/eleventy-starter-with-tailwind-css-alpine-js/)
-
-## License
-
-MIT
-
-See `LICENSE` for more information.
